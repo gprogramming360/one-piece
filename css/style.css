@@ -439,6 +439,7 @@ background: linear-gradient(360deg,#222,#444);
 @media screen and (max-width:900px){
 .container-6 div{
 padding:13px;
+background-color: red;
 }
 .container-6 div h2{
 color:#000;
