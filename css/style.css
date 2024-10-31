@@ -464,6 +464,7 @@ line-height:1.6;
 @media screen and (max-width:600px){
 .container-6 div{
 padding: 5px;
+background-color: red;
 }
 .container-6 div h2{
 color:#f2f8ff;
